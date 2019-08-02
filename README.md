@@ -3,7 +3,7 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Windows-blue.svg)]()
 ![](https://i.ibb.co/6R8qhPB/fbi.png)
-FBI adalah pengumpulan informasi akun facebook yang akurat, semua informasi sensitif dapat dengan mudah dikumpulkan walaupun target mengubah semua privasinya menjadi (hanya saya), informasi sensitif tentang tempat tinggal, tanggal lahir, pekerjaan, nomor telepon dan alamat email..
+FBI adalah pengumpulan informasi akun facebook yang akurat, semua informasi sensitif dapat dengan mudah dikumpulkan walaupun target mengubah semua privasinya menjadi (hanya saya), informasi sensitif tentang tempat tinggal, tanggal lahir, pekerjaan, nomor telepon dan alamat email.
 
 # [ Installation ]
 ```
