@@ -23,5 +23,4 @@ $ python2 fbi.py
 ```
 # [ Note ]
 * jika Anda bingung bagaimana cara menggunakannya, ketikkan 'help' untuk menampilkan menu bantuan
-* [Peringatkan] silakan buka VPN Anda sebelum menggunakan program ini !!!
-* [Tips] jangan terlalu sering menggunakan program ini !!!
+* [Tips] Jangan terlalu sering menggunakan program ini !!!
